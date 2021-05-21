@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 &nbsp; Estou atualmente estudando desenvolvimento web nas linguagens Java e C#
+- 🔭 &nbsp; Estou atualmente aprofundando meus conhecimentos sobre desenvolvimento web na plataforma .NET
 - 🎓 &nbsp; Faço faculdade de análise e desenvolvimento de sistemas, estou no último semestre! \o/
 - 💼 &nbsp; Trabalhei por 2 anos como aprendiz
 - ✍️ &nbsp; Gosto de jogos online e sou entusiasta de e-sports no meu tempo livre.
