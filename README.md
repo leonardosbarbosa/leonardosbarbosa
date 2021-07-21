@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 &nbsp; Estou atualmente aprofundando meus conhecimentos sobre desenvolvimento web na plataforma .NET
-- 🎓 &nbsp; Faço faculdade de análise e desenvolvimento de sistemas, estou no último semestre! \o/
-- 💼 &nbsp; Trabalhei por 2 anos como aprendiz
+- 🔭 &nbsp; Estou atualmente aprofundando meus conhecimentos sobre desenvolvimento web
+- 🎓 &nbsp; Sou graduado em análise e desenvolvimento de sistemas
+- 💼 &nbsp; Trabalho atualmente como Desenvolvedor Júnior
 - ✍️ &nbsp; Gosto de jogos online e sou entusiasta de e-sports no meu tempo livre.
 
 <h3>🛠 Conhecimentos Técnicos</h3>
