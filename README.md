@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 &nbsp; Estou atualmente aprofundando meus conhecimentos sobre desenvolvimento web
+- 🔭 &nbsp; Estou atualmente aprofundando meus conhecimentos sobre desenvolvimento backend utilizando Java e Spring Boot.
 - 🎓 &nbsp; Sou graduado em análise e desenvolvimento de sistemas
 - 💼 &nbsp; Trabalho atualmente como Desenvolvedor Júnior
 - ✍️ &nbsp; Gosto de jogos online e sou entusiasta de e-sports no meu tempo livre.
