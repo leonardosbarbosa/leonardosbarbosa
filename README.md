@@ -5,15 +5,15 @@
 
 - 🔭 &nbsp; Estou atualmente aprofundando meus conhecimentos sobre desenvolvimento backend utilizando Java e Spring Boot.
 - 🎓 &nbsp; Sou graduado em análise e desenvolvimento de sistemas
-- 💼 &nbsp; Trabalho atualmente como Desenvolvedor Júnior
+- 💼 &nbsp; Trabalho atualmente como Desenvolvedor Java Júnior, focado em microsserviços.
 - ✍️ &nbsp; Gosto de jogos online e sou entusiasta de e-sports no meu tempo livre.
 
 <h3>🛠 Conhecimentos Técnicos</h3>
 
-- 💻 &nbsp; Java | C#  
+- 💻 &nbsp; Java | Spring Boot
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React 
-- 🛢 &nbsp; MySQL | PostgreSQL | Xampp
-- 🔧 &nbsp; Visual Studio Code | Visual Studio 2019 | Eclipse | STS | Git
+- 🛢 &nbsp; MySQL | PostgreSQL | Oracle DB
+- 🔧 &nbsp; Visual Studio Code | IntelliJ | Eclipse | STS | Git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosbarbosa&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/leonardosbarbosa/github-readme-stats)
 
