@@ -3,14 +3,14 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🔭 &nbsp; Estou atualmente aprofundando meus conhecimentos sobre desenvolvimento backend utilizando Java e Spring Boot.
+- 🔭 &nbsp; Estou atualmente aprofundando meus conhecimentos em design patterns e na arquitetura de microsserviços.
 - 🎓 &nbsp; Sou graduado em análise e desenvolvimento de sistemas
-- 💼 &nbsp; Trabalho atualmente como Desenvolvedor Java Júnior, focado em microsserviços.
+- 💼 &nbsp; Trabalho como desenvolvedor back-end Java
 - ✍️ &nbsp; Gosto de jogos online e sou entusiasta de e-sports no meu tempo livre.
 
 <h3>🛠 Conhecimentos Técnicos</h3>
 
-- 💻 &nbsp; Java | Spring Boot
+- 💻 &nbsp; Java | Spring Boot | Microsserviços | Rest APIs
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React 
 - 🛢 &nbsp; MySQL | PostgreSQL | Oracle DB
 - 🔧 &nbsp; Visual Studio Code | IntelliJ | Eclipse | STS | Git
