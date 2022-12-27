@@ -11,13 +11,17 @@
 <h3>🛠 Conhecimentos Técnicos</h3>
 
 - 💻 &nbsp; Java | Spring Boot | Microsserviços | Rest APIs
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 - 🛢 &nbsp; MySQL | PostgreSQL | Oracle DB
 - 🔧 &nbsp; Visual Studio Code | IntelliJ | Eclipse | STS | Git
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosbarbosa&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/leonardosbarbosa/github-readme-stats)
+<h3>📊 GitHub Stats </h3>
 
-<h3> 🤝🏻 Vamos nos conectar! </h3>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosbarbosa&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=leonardosbarbosa&theme=chartreuse-dark&hide_border=false)
+
+<h3 align="center"> 🤝🏻 Vamos nos conectar! </h3>
 
 <p align="center"> 
 &nbsp; <a href="https://www.linkedin.com/in/leonardo-sbarbosa/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
